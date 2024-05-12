@@ -121,7 +121,532 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: winter objects_65
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 80
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e243301cf760fe4b88fe6e9e1dee262
+      internalID: 945754143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c029c3fa508975f4d9e40cc2bca7fa4c
+      internalID: 288500531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_78
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 52
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55c135039d41d947ad36c13292134b6
+      internalID: -190184407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818cd7db9cc753640b53d92e74b89899
+      internalID: -400448402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd04501f4f59f141b3062061066084b
+      internalID: 1200837420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_83
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eef71c2bc71a89479e345903e7c009f
+      internalID: 221098540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e00811e78c10449a491fa2eabb2c45
+      internalID: -1718325837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_88
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666ce837fb07c90489e4fea81490dc61
+      internalID: 1696844864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd95905b367351d4f935c63ee731b925
+      internalID: -1548410423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85d50ce3592e9c46859f3ef2d01a462
+      internalID: -186406794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3adde7563a5384d87d22200f3b18b0
+      internalID: -1513705028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_99
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca572db7aee4fa4b89bd464ffb5d620
+      internalID: -196436779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_107
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ac07f2a3cbd514ab1ac67f065a4728
+      internalID: -235684414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_108
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84045e0bec644944fb375751279d4626
+      internalID: 1690810799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0330122b218d10a43a3964bc4960ba38
+      internalID: -2029143151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 144
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba876f32e6cccbb46ac5aa59aeccf2bb
+      internalID: -1035276795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 144
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf817528975822947a86277077f14743
+      internalID: 1338270946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 144
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49877ca2f6c322a43a3a0833190ab11e
+      internalID: -2089865523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 118
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0895803bda5b8ee4f80683ac059d5a50
+      internalID: 1520558814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90940390fbd6a1c4ca7ab80b23c1b732
+      internalID: -1587156828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 49
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d27ef9d7b7f4ad4da0992efecd6e806
+      internalID: 1830332341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a5100447e01d641a01ae05a7875257
+      internalID: -1634272784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 3
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3053d61144ff4554bbf38e6a2b82fbd2
+      internalID: -1061505986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dd72d7af59a5140b6793a3ffb8e9a4
+      internalID: -789566518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter objects_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 71
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a8dd6eae3a59c4e843dfcdf8a19592
+      internalID: 1059649910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +657,117 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      winter objects_0: -1035276795
+      winter objects_1: 1338270946
+      winter objects_10: 1015533309
+      winter objects_100: -1479130903
+      winter objects_101: -1502723189
+      winter objects_102: 1786707159
+      winter objects_103: 1085376059
+      winter objects_104: -1584429858
+      winter objects_105: -1435257011
+      winter objects_106: -428361226
+      winter objects_107: -235684414
+      winter objects_108: 1690810799
+      winter objects_109: -2029143151
+      winter objects_11: -1397255562
+      winter objects_12: 1035238581
+      winter objects_13: -1542581354
+      winter objects_14: 826571565
+      winter objects_15: -644700034
+      winter objects_16: 1650455036
+      winter objects_17: -1558363324
+      winter objects_18: -931997660
+      winter objects_19: 25800034
+      winter objects_2: -2089865523
+      winter objects_20: 1329274162
+      winter objects_21: 1196158881
+      winter objects_22: -513740800
+      winter objects_23: 1895233038
+      winter objects_24: 253455712
+      winter objects_25: 1427759529
+      winter objects_26: -1735586410
+      winter objects_27: 74226883
+      winter objects_28: -1465623362
+      winter objects_29: 200004656
+      winter objects_3: 1520558814
+      winter objects_30: 1392549681
+      winter objects_31: -1410687468
+      winter objects_32: -1375952176
+      winter objects_33: 425157067
+      winter objects_34: 1551120365
+      winter objects_35: 640340507
+      winter objects_36: 1894114691
+      winter objects_37: 1352860616
+      winter objects_38: 1920763836
+      winter objects_39: -1998247996
+      winter objects_4: -1587156828
+      winter objects_40: 2119745689
+      winter objects_41: 326280623
+      winter objects_42: -2114485186
+      winter objects_43: 1346866126
+      winter objects_44: -1664710235
+      winter objects_45: -259220193
+      winter objects_46: -749133642
+      winter objects_47: 293013854
+      winter objects_48: 2027165741
+      winter objects_49: 2143949942
+      winter objects_5: 1830332341
+      winter objects_50: -2050551176
+      winter objects_51: 370743315
+      winter objects_52: 103847070
+      winter objects_53: 1819312968
+      winter objects_54: 2011113872
+      winter objects_55: -515101439
+      winter objects_56: 1937380805
+      winter objects_57: -1509570870
+      winter objects_58: 1043357035
+      winter objects_59: -631272274
+      winter objects_6: -1634272784
+      winter objects_60: 1343725936
+      winter objects_61: -1351139198
+      winter objects_62: -1921136483
+      winter objects_63: 1913575580
+      winter objects_64: -234861143
+      winter objects_65: 945754143
+      winter objects_66: 1488778606
+      winter objects_67: 1903468569
+      winter objects_68: 1360985837
+      winter objects_69: 887702611
+      winter objects_7: -1061505986
+      winter objects_70: 1620663880
+      winter objects_71: -921963884
+      winter objects_72: 2112781618
+      winter objects_73: 1190490504
+      winter objects_74: 288500531
+      winter objects_75: -832410238
+      winter objects_76: 1996297988
+      winter objects_77: 2071187526
+      winter objects_78: -190184407
+      winter objects_79: -1262987424
+      winter objects_8: -789566518
+      winter objects_80: 37854083
+      winter objects_81: -400448402
+      winter objects_82: 1200837420
+      winter objects_83: 221098540
+      winter objects_84: -369998510
+      winter objects_85: 1646467958
+      winter objects_86: 1719763595
+      winter objects_87: -1718325837
+      winter objects_88: 1696844864
+      winter objects_89: -1548410423
+      winter objects_9: 1059649910
+      winter objects_90: -1486784280
+      winter objects_91: -718132226
+      winter objects_92: -623014547
+      winter objects_93: -1829972183
+      winter objects_94: -901406696
+      winter objects_95: -1786000380
+      winter objects_96: -503965989
+      winter objects_97: -186406794
+      winter objects_98: -1513705028
+      winter objects_99: -196436779
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
